@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2025-09-04T11:22:18.462Z",
-    "end": "2025-09-04T11:22:19.077Z",
-    "duration": 615
+    "start": "2025-09-26T02:06:53.458Z",
+    "end": "2025-09-26T02:06:54.362Z",
+    "duration": 904
   },
   "tests": [
     {
@@ -48,7 +48,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -94,7 +94,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js companyCeo is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
